@@ -1,4 +1,9 @@
-# New Project
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Thunderducky/game1)
+
+# Game 1: Trigger Point: Injection - A Cyberpunk Adventure
+
+# Things to try out
+# Performant text affects and simple structures, draw the text, load the game etc
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
